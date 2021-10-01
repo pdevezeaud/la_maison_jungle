@@ -1,6 +1,6 @@
 import '../styles/Cart.css'
 function Cart() {
-    const monsteraPrice = 8
+    const monsteraPrice = 10
     const ivyPrice = 10
     const flowerPrice = 15
     return(
